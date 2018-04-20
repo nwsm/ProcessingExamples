@@ -1,3 +1,5 @@
+//this file draws an ellipse, a rectangle, and a line
+
 void setup() {
   //the setup() function gets executed once, when you run the program
   

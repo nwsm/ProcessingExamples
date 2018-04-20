@@ -1,3 +1,6 @@
+//this project draws a circle when you click,
+//and clears the screen when you press ENTER or K
+
 int circleRadius = 50;
 
 void setup() {
