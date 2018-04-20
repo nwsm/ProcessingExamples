@@ -3,7 +3,7 @@
 1. First download Processing: https://processing.org/download/
 
 2. Next download this repository
-![Clone or Download > Download ZIP](pictures/download.png) "Logo Title Text 1")
+![Clone or Download > Download ZIP](pictures/download.png)
 
 3. Go into the examples to learn!
 
