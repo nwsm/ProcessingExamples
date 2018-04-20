@@ -9,3 +9,5 @@
 3. Go into the examples to learn!
 
 Intro > Input > Movement > Classes
+
+4. If you need a more in depth tutorial, this is tutorial series is good: http://hello.processing.org/editor/
