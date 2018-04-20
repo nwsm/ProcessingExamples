@@ -2,7 +2,7 @@
 
 0. Watch this video by ~~Owen Hoephner~~ Dan to see what Processing is: [video](https://www.youtube.com/watch?v=2VLaIr5Ckbs&list=PLRqwX-V7Uu6ZYJC7L-r6rX6utt6wwJCyi)
 
-1. First download Processing: https://processing.org/download/
+1. Download Processing: https://processing.org/download/
 
 2. Next download this repository
 ![Clone or Download > Download ZIP](pictures/download.png)
